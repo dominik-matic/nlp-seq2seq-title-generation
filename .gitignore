@@ -1,0 +1,6 @@
+scrapped
+__pycache__
+alt
+dataset/*
+models/*
+.ipynb_checkpoints
